@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5292
+
+Google Test is a unit testing library for the C++ programming language. With this plugin you can:
+
+ - jump between tests in the open buffer
+ - launch test under the cursor
+ - select a test case, with autocompletion
+ - select a test name, with autocompletion
+ - launch selected tests
+ - highlight failing tests in the quickfix
+ - fuzzy search and select tests with ctrlp
